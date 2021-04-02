@@ -25,6 +25,7 @@ import java.util.Properties;
 /**
  * Database scenario properties.
  */
+@Deprecated
 @RequiredArgsConstructor
 public final class DatabaseScenarioProperties {
     

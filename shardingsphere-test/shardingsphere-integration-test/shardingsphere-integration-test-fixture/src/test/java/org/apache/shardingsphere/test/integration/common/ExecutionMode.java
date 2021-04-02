@@ -20,6 +20,7 @@ package org.apache.shardingsphere.test.integration.common;
 /**
  * Execution mode.
  */
+@Deprecated
 public enum ExecutionMode {
     
     SINGLE, BATCH, ADDITIONAL
